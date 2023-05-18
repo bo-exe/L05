@@ -1,7 +1,6 @@
 package sg.edu.rp.c346.id22020749.demoriddle;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class AnswerActivity1 extends AppCompatActivity {
